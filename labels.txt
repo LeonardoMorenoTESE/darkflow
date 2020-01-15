@@ -1,1 +1,4 @@
-monkey
+Pistola
+Cuchillo
+Arma Automatica
+Escopeta
